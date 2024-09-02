@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d07f5237-06dc-48a8-bccd-3315e62ab0d3" name="Changes" comment="Pytest Learning" />
+    <list default="true" id="d07f5237-06dc-48a8-bccd-3315e62ab0d3" name="Changes" comment="Pytest Learning">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -31,31 +33,31 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "Python tests.Python tests for test_lab180.test_additionn.executor": "Run",
-    "Python tests.Python tests for test_lab180.test_multiplication.executor": "Run",
-    "Python tests.Python tests for test_lab181.test_sub0.executor": "Run",
-    "Python tests.Python tests for test_lab181.test_sub1.executor": "Run",
-    "Python tests.Python tests for test_lab184.test_get_single_request_by_id.executor": "Run",
-    "Python tests.Python tests for test_lab184.test_get_single_request_by_id_negative.executor": "Run",
-    "Python tests.Python tests in test_lab183.py.executor": "Run",
-    "Python tests.Python tests in test_lab184.py.executor": "Run",
-    "Python.Calculator.executor": "Run",
-    "Python.Decorators.executor": "Run",
-    "Python.Filter.executor": "Run",
-    "Python.Loops.executor": "Run",
-    "Python.Real_Decorator.executor": "Run",
-    "Python.Task2.executor": "Run",
-    "Python.Tuple.executor": "Run",
-    "Python.VWO_Login.executor": "Run",
-    "Python.multiple_condition.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "settings.editor.selected.configurable": "pyconsole"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;Python tests.Python tests for test_lab180.test_additionn.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_lab180.test_multiplication.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_lab181.test_sub0.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_lab181.test_sub1.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_lab184.test_get_single_request_by_id.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_lab184.test_get_single_request_by_id_negative.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in test_lab183.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in test_lab184.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Calculator.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Decorators.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Filter.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Loops.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Real_Decorator.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Tuple.executor&quot;: &quot;Run&quot;,
+    &quot;Python.VWO_Login.executor&quot;: &quot;Run&quot;,
+    &quot;Python.multiple_condition.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
   }
-}]]></component>
+}</component>
   <component name="PyConsoleOptionsProvider">
     <option name="myPythonConsoleState">
       <console-settings module-name="PylearningPractice" is-module-sdk="true">
@@ -158,7 +160,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-48aec45f0201-746f403e7f0c-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-241.17011.127" />
+        <option value="bundled-python-sdk-8336bb23522e-31b6be0877a2-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-241.19072.16" />
       </set>
     </attachedChunks>
   </component>
@@ -179,7 +181,15 @@
       <option name="project" value="LOCAL" />
       <updated>1724487426191</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Pytest Learning">
+      <option name="closed" value="true" />
+      <created>1724487617514</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1724487617514</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
